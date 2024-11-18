@@ -6,13 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-<<<<<<< HEAD
     "start": "node index.js"
-   
-=======
-    "start": "node index.js",
-    "build": "npm intsall"
->>>>>>> 9dc306d571b147921179d311e06c5693785c58a3
   },
   "repository": {
     "type": "git",
